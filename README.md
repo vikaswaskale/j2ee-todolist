@@ -19,18 +19,18 @@ Maven
 H2 Database
 JPA/Hibernate
 
-The following features are implemented in this mini todo management project:
+Implemented Features 
 ----------
 
-Create Todo
-Update Todo
-Delete Todo
-List Todo
-Get Todo by id.
-Simple Spring security
-Webjars to manage client-side dependencies(CSS and JS).
-JSP as view and common header, footer, and navigation bar.
-Custom error page mapping
+- Create Todo
+- Update Todo
+- Delete Todo
+- List Todo
+- Get Todo by id.
+- Simple Spring security
+- Webjars to manage client-side dependencies(CSS and JS).
+- JSP as view and common header, footer, and navigation bar.
+- Custom error page mapping
 
 
 To Test
