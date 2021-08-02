@@ -1,9 +1,12 @@
-Todo List application using Spring MVC and JSP
+Todo List 
+--------------
 
-Simple todo list web application.
+Spring MVC and JSP
+
 Create and add todo list items to a transient in-memory storage that gets wiped after application shutdown. The webapp is deployed using the Tomcat.
 
 List of technologies and patterns used (in no particular order)
+-------------
 
 Spring Framework
 Spring MVC
@@ -22,11 +25,12 @@ URL to test:
 
 http://localhost:8080/
 
-Users:
+Users
+-------------
 
-test/pwd123
-john/john123
-paul/paul123
+- test/pwd123
+- john/john123
+- paul/paul123
 
 
 ![image](https://user-images.githubusercontent.com/51259974/127879635-8c2ddd2f-b6f5-4453-98b7-de93012f93a7.png)
