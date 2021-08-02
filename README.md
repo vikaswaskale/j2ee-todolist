@@ -18,7 +18,11 @@ JPA/Hibernate
 To Test
 -------
 Deploy the war file into Tomcat 8
+URL to test:
+
 http://localhost:8080/
+
+Users:
 
 test/pwd123
 john/john123
