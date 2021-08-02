@@ -5,6 +5,7 @@ Spring MVC and JSP
 
 Create and add todo list items to a transient in-memory storage that gets wiped after application shutdown. The webapp is deployed using the Tomcat.
 
+
 List of technologies and patterns used (in no particular order)
 -------------
 
@@ -17,6 +18,20 @@ SLF4j and Logback
 Maven
 H2 Database
 JPA/Hibernate
+
+The following features are implemented in this mini todo management project:
+----------
+
+Create Todo
+Update Todo
+Delete Todo
+List Todo
+Get Todo by id.
+Simple Spring security
+Webjars to manage client-side dependencies(CSS and JS).
+JSP as view and common header, footer, and navigation bar.
+Custom error page mapping
+
 
 To Test
 -------
