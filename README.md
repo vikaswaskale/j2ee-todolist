@@ -15,5 +15,17 @@ Maven
 H2 Database
 JPA/Hibernate
 
+To Test
+-------
+Deploy the war file into Tomcat 8
+http://localhost:8080/
+
+test/pwd123
+john/john123
+paul/paul123
+
+
+![image](https://user-images.githubusercontent.com/51259974/127879635-8c2ddd2f-b6f5-4453-98b7-de93012f93a7.png)
+
 
 
